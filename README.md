@@ -48,5 +48,23 @@ By making notes ahead of time, you will practice the core skill of being able to
 
 > View the [Frontend README](./frontend/README.md) for more details.
 
+<<<<<<< HEAD
 
 
+=======
+1. `frontend/src/components/QuestionView.js`
+2. `frontend/src/components/FormView.js`
+3. `frontend/src/components/QuizView.js`
+
+By making notes ahead of time, you will practice the core skill of being able to read and understand code and will have a simple plan to follow to build out the endpoints of your backend API.
+
+> View the [Frontend README](./frontend/README.md) for more details.
+
+1. `frontend/src/components/QuestionView.js`
+2. `frontend/src/components/FormView.js`
+3. `frontend/src/components/QuizView.js`
+
+By making notes ahead of time, you will practice the core skill of being able to read and understand code and will have a simple plan to follow to build out the endpoints of your backend API.
+
+> View the [Frontend README](./frontend/README.md) for more details.
+>>>>>>> 1094a9dee024c19b0e9d54f2cef9a82b7ad72157
